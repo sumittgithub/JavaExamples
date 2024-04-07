@@ -1,0 +1,3 @@
+com\kafka\producer\RabbitMQProducer.class
+com\kafka\Application\RabbitMQExampleApplication.class
+com\kafka\consumer\RabbitMQConsumer.class
